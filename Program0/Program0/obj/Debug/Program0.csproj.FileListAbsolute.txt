@@ -1,0 +1,7 @@
+C:\Users\natha\Documents\CIS 200\Program0\Program0\bin\Debug\Program0.exe.config
+C:\Users\natha\Documents\CIS 200\Program0\Program0\bin\Debug\Program0.exe
+C:\Users\natha\Documents\CIS 200\Program0\Program0\bin\Debug\Program0.pdb
+C:\Users\natha\Documents\CIS 200\Program0\Program0\obj\Debug\Program0.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\CIS 200\Program0\Program0\obj\Debug\Program0.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\CIS 200\Program0\Program0\obj\Debug\Program0.exe
+C:\Users\natha\Documents\CIS 200\Program0\Program0\obj\Debug\Program0.pdb
